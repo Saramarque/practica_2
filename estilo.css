@@ -10,6 +10,17 @@
     background-color: var(--color);
   }
   
+   .blanco
+  {
+grid-template-rows:1fr 1fr 1fr
+
+  }
  
+  .item2 {
+    padding:1em;
+    background-color: green;
+    background-color: var(--color);
+    height:30vh;
+  }
   
  
