@@ -1,0 +1,15 @@
+.grid-layout {
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr;
+    height:650px;
+  }
+  
+  .item {
+    padding:1em;
+    background-color: green;
+    background-color: var(--color);
+  }
+  
+ 
+  
+ 
